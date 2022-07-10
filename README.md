@@ -1,5 +1,8 @@
 # github.healthcare.org
 Access of healthcare facilities in rural areas
+
+
+
 Access to healthcare services is critical to good health, yet rural residents face a variety of access barriers. A 1993 National Academies report, Access to Healthcare in America, defined access as “the timely use of personal health services to achieve the best possible health outcomes.” A 2014 RUPRI Health Panel report on rural healthcare access summarizes additional definitions of access with examples of measures that can be used to determine access.
 
 Ideally, residents should be able to conveniently and confidently access services such as primary care, dental care, behavioral health, emergency care, and public health services. According to Healthy People 2020, access to healthcare is important for:
